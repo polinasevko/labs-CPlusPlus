@@ -4,7 +4,6 @@
 #include <QMainWindow>
 #include <QTreeWidget>
 #include "tree.h"
-#include "myminitree.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
