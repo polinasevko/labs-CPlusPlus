@@ -20,7 +20,6 @@ QtApplication {
         "mainwindow.cpp",
         "mainwindow.h",
         "mainwindow.ui",
-        "myminitree.h",
         "tree.cpp",
         "tree.h",
     ]
